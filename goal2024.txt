@@ -1,0 +1,3 @@
+goals 2024 
+- create web Display for trading
+- recap browser
